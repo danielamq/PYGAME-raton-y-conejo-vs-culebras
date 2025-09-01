@@ -69,6 +69,5 @@ python main.py
 
 ## ✨ Mejoras futuras
 
--   Agregar **niveles de dificultad**.\
--   Vidas extra y puntuación.\
+-   puntuación.\
 -   Animaciones más detalladas para las culebras.
